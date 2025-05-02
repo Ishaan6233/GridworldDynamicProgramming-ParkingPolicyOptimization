@@ -23,8 +23,9 @@ The objective is to find an **optimal pricing policy** using:
 ---
 
 ## Project Structure
-
+`
 ├── gridworld_dp.py         # Main file: all implementations for evaluation, iteration, and visualization
 ├── tools.py                # Provided environment simulating the Gridworld parking scenario
 ├── grader.py               # Provided helper for value checking and autograding
 ├── README.md               # Project documentation
+`
